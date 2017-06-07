@@ -1,3 +1,3 @@
-# MODA Open Source Analytics Workshop
+# MODA @ HackNY 2017
 
-Presented at Smart Cities NYC 2017. 
+Mini case study on buildings data. 
